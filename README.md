@@ -63,7 +63,7 @@ Before diving into these tutorials, you should have:
 
 ## 📖 Recommended Learning Path
 
-For the best learning experience, we recommend following this order:
+For the best learning experience, I recommend following this order:
 
 1. **Start with Python basics**
    - `numpy_basics.ipynb` - Arrays and mathematical operations
