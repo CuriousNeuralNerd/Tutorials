@@ -106,7 +106,7 @@ By completing these tutorials, you will be able to:
 Found an error or have a suggestion? Feel free to:
 - Open an issue
 - Submit a pull request
-- Contact the instructor
+- Contact me
 
 ## 📚 Additional Resources
 
