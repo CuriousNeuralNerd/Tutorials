@@ -1,4 +1,4 @@
-# Introduction to Machine Learning - Tutorial Repository 🤖
+# Introduction to Machine Learning - Tutorials 🤖
 
 Welcome to the Introduction to Machine Learning tutorial repository! This collection of Jupyter notebooks is designed to help beginners understand the fundamentals of Python programming for data science and machine learning.
 
