@@ -15,7 +15,11 @@ This repository contains hands-on tutorials covering essential tools and concept
 - **`scikit_learn_basics.ipynb`** - Introduction to scikit-learn, Python's premier ML library
 
 ### 📈 Machine Learning Algorithms
-- **`Linear_Regression_Tutorial.ipynb`** - Understanding and implementing linear regression
+- **`Linear_Regression_Tutorial.ipynb`** - Predicting house prices using a Housing dataset
+   - Load and explore real estate data
+   - Visualize relationships between features and target
+   - Build and evaluate a linear regression model
+   - Calculate MSE and R² scores
 - **`Logistic_Regression_Tutorial.ipynb`** - Learn classification with logistic regression
 
 ## 🚀 Getting Started
