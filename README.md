@@ -20,7 +20,12 @@ This repository contains hands-on tutorials covering essential tools and concept
    - Visualize relationships between features and target
    - Build and evaluate a linear regression model
    - Calculate MSE and R² scores
-- **`Logistic_Regression_Tutorial.ipynb`** - Learn classification with logistic regression
+- **`Logistic_Regression_Tutorial.ipynb`** - Predicting Titanic passenger survival
+   - Explore the famous Titanic dataset
+   - Create visualizations with seaborn
+   - Handle missing values and encode categorical variables
+   - Build a classification model
+   - Evaluate with accuracy, precision, recall, F1 score, and confusion matrices
 
 ## 🚀 Getting Started
 
@@ -78,21 +83,25 @@ For the best learning experience, I recommend following this order:
    - `scikit_learn_basics.ipynb` - ML workflow and basic concepts
 
 3. **Dive into algorithms**
-   - `Linear_Regression_Tutorial.ipynb` - Your first ML algorithm
-   - `Logistic_Regression_Tutorial.ipynb` - Classification fundamentals
+   - `Linear_Regression_Tutorial.ipynb` - Regression analysis with real estate data
+   - `Logistic_Regression_Tutorial.ipynb` - Classification with the Titanic dataset
 
 ## 💡 How to Use These Tutorials
 
 Each notebook is designed to be self-contained and includes:
-- **Conceptual explanations** - Understanding the "why" behind each topic
+- **Conceptual explanations** - Understanding the theory and mathematics
 - **Code examples** - Practical demonstrations you can run
 - **Exercises** - Practice problems to reinforce learning
-- **Tips and best practices** - Real-world insights
+- **Data exploration** - Real datasets (Ames Housing, Titanic)
+- **Visualizations** - Graphs to understand data relationships
+- **Model evaluation** - Multiple metrics to assess performance
 
 ### Tips for Success
 - 🔄 **Run all code cells** - Don't just read, execute the code!
+- 📝 **Read the explanations** - Each section includes detailed explanations
 - 📝 **Take notes** - Add your own markdown cells with observations
 - 🧪 **Experiment** - Modify the code and see what happens
+- 📊 **Study the visualizations** - They help understand the data patterns
 - ❓ **Ask questions** - If something isn't clear, seek help
 
 ## 🎯 Learning Objectives
@@ -100,10 +109,12 @@ Each notebook is designed to be self-contained and includes:
 By completing these tutorials, you will be able to:
 - ✅ Manipulate data using NumPy arrays
 - ✅ Load, clean, and analyze datasets with Pandas
-- ✅ Create informative visualizations with Matplotlib
+- ✅ Create informative visualizations with Matplotlib and Seaborn
 - ✅ Understand the machine learning workflow
-- ✅ Implement linear regression from scratch and using scikit-learn
-- ✅ Build and evaluate classification models using logistic regression
+- ✅ Implement linear regression for predicting continuous values
+- ✅ Build classification models using logistic regression
+- ✅ Evaluate models using appropriate metrics (MSE, R², accuracy, precision, recall, F1)
+- ✅ Interpret confusion matrices and classification reports
 
 ## 🤝 Contributing
 
@@ -117,6 +128,7 @@ Found an error or have a suggestion? Feel free to:
 To deepen your understanding, check out these resources:
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Seaborn Documentation and Tutorial](https://seaborn.pydata.org/tutorial.html)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 
@@ -126,8 +138,8 @@ If you're stuck:
 1. Check the notebook's markdown cells for hints
 2. Review the official documentation links provided
 3. Search for the error message online
-4. Ask your instructor or teaching assistant
-5. Post in the class forum or discussion board
+4. Ask your Professor or teaching assistant (or if not in the course reach out to me)
+5. Post in the class Discord
 
 ## 📜 License
 
